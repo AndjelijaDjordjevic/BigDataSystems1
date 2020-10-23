@@ -1,0 +1,1 @@
+spark-submit file.py hdfs://localhost:9000/user/andjelija/dataset/Dataset2.csv 50.83 50.85 -0.14 0 1498121165520 1498151168140
